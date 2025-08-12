@@ -10,9 +10,10 @@ This Tableau project explores average car prices by brand and model, segmented b
 - **Bar Chart**: Average Car Prices by Brand, Model & Fuel Type.
 - **Pie Chart**: Distribution of Models by Fuel Type.
 
+## Dashboard Preview
 ![Dashboard Preview](Cars%20Market%20Landscape.jpeg)
 
+[View interactive version on Tableau Public](https://public.tableau.com/app/profile/victoria.komissarchik.trubitsyna/viz/CarMarketLandscape/Dashboard1?publish=yes)
 
-
-
+[Download dataset](Cars%20Dataset%202025.xlsx)
 
